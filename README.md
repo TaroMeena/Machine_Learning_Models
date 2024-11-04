@@ -1,1 +1,1 @@
-# Machine_Learning_Models
+The Jupyter notebook contains the code for predicting flight delays from historical flight data. Initially, csv files that contain flight data are extracted from zip files. Then, data is imputed and pre-processed by removing null values.
