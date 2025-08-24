@@ -1,1 +1,1 @@
-The Jupyter notebook contains the code for predicting the success of restuarants in Sydney using varoius models such as Linear Regression, Suppor
+The Jupyter notebook contains the code for predicting the success of restuarants in Sydney using various machine learning algorithms such as Linear Regression, K-Nearest Neighbors, Random Forest classifier and Support Vector Machine.
